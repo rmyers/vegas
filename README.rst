@@ -30,8 +30,8 @@ Hotel           Sat    Sun    Total
 =============  =====  ======  =====
 Westgate_      $150   $40     $190
 Aria_          $280   $150    $430
-Monty Carlo_   $180   $60     $240
-NY NY_         $200   $68     $270
+MontyCarlo_    $180   $60     $240
+NYNY_          $200   $68     $270
 LINQ_          $175   $63     $240
 =============  =====  ======  =====
 
@@ -39,6 +39,6 @@ LINQ_          $175   $63     $240
 
 .. _Westgate: https://www.westgatedestinations.com/nevada/las-vegas/westgate-las-vegas-hotel-casino
 .. _Aria: http://www.aria.com/
-.. _Monty Carlo: http://www.montecarlo.com/
-.. _NY NY: http://www.nynyhotelcasino.com/
+.. _MontyCarlo: http://www.montecarlo.com/
+.. _NYNY: http://www.nynyhotelcasino.com/
 .. _LINQ: https://www.caesars.com/linq
