@@ -38,6 +38,11 @@ Vdara_ for 5   $722   $399    $1120
 Vdara_ for 3   $212   $90     $300
 =============  =====  ======  =====
 
+Vdara Hospitality Suite
+-----------------------
+
+.. image:: hospitality_suite.jpg
+
 Who's Going?
 ============
 
