@@ -9,6 +9,9 @@ invite other people please feel free. Here are the details:
 :Dates: September 19th - 20th
 :Location: TBD (more below)
 
+Option 1: Westgate $100/person
+------------------------------
+
 I have stayed at a bunch of places in 
 Vegas and like to stay on the strip, however the Westgate 
 (formerly Hilton, formerly LVH) has a really good sports book with really 
@@ -19,21 +22,22 @@ people coming in. There is also a monorail station at the hotel so we can easily
 get to the strip on Saturday (it runs until 3am so if we do stay out too late 
 we'll have to cab it back)
 
-On the strip my favorite Hotel in NY NY but the Monty Carlo is not a bad option.
-There is also the Vdara which has pretty cool looking 2 bedroom suites if you
-don't mind sharing a king with another dude. We can get 5 people in a hospitality
+Option 2: Vdara / Monty Carlo $200/person 
+------------------------------------------
+
+We can get 5 people in a hospitality
 suite so it would be about $230 a person. The other option at the Vdara is a
 King bed with a queen sleeper sofa, so 3 people could do one of those rooms too.
+We can also mix-in a few rooms at the Monty Carlo which is connected by a tram
+to the Vdara and use the Suite as the home base which will cut down on the
+amount of bed sharing going on.
 
 
 =============  =====  ======  =====
 Hotel           Sat    Sun    Total
 =============  =====  ======  =====
 Westgate_      $150   $40     $190
-Aria_          $280   $150    $430
 MontyCarlo_    $180   $60     $240
-NYNY_          $200   $68     $270
-LINQ_          $175   $63     $240
 Vdara_ for 5   $722   $399    $1120
 Vdara_ for 3   $212   $90     $300
 =============  =====  ======  =====
