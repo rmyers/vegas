@@ -41,9 +41,20 @@ Vdara_ for 3   $212   $90     $300
 Who's Going?
 ============
 
-:Bob: flight TBD
-:Joe: flight TBD
-:Theron: flight TBD
+:Bob: YES!
+:Anthony: YES!
+:Craig: Maybe
+:Jeff: TBD
+:Joe: YES!
+:Jordan: TBD
+:Kevin: TBD
+:Matt: TBD
+:Marcus: TBD
+:Michael: TBD
+:Mike: TBD
+:Paul: TBD
+:Shola: TBD
+:Theron: YES!
 
 .. _Westgate: https://www.westgatedestinations.com/nevada/las-vegas/westgate-las-vegas-hotel-casino
 .. _Aria: http://www.aria.com/
