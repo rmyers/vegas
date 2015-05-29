@@ -53,7 +53,7 @@ Who's Going?
 :Michael: TBD
 :Mike: TBD
 :Paul: TBD
-:Shola: TBD
+:Shola: Maybe
 :Theron: YES!
 
 .. _Westgate: https://www.westgatedestinations.com/nevada/las-vegas/westgate-las-vegas-hotel-casino
