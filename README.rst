@@ -22,7 +22,8 @@ we'll have to cab it back)
 On the strip my favorite Hotel in NY NY but the Monty Carlo is not a bad option.
 There is also the Vdara which has pretty cool looking 2 bedroom suites if you
 don't mind sharing a king with another dude. We can get 5 people in a hospitality
-suite so it would be about $230 a person.
+suite so it would be about $230 a person. The other option at the Vdara is a
+King bed with a queen sleeper sofa, so 3 people could do one of those rooms too.
 
 
 =============  =====  ======  =====
@@ -34,6 +35,7 @@ MontyCarlo_    $180   $60     $240
 NYNY_          $200   $68     $270
 LINQ_          $175   $63     $240
 Vdara_ for 5   $722   $399    $1120
+Vdara_ for 3   $212   $90     $300
 =============  =====  ======  =====
 
 Who's Going?
