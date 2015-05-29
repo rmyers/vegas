@@ -41,6 +41,7 @@ Who's Going?
 
 :Bob: flight TBD
 :Joe: flight TBD
+:Theron: flight TBD
 
 .. _Westgate: https://www.westgatedestinations.com/nevada/las-vegas/westgate-las-vegas-hotel-casino
 .. _Aria: http://www.aria.com/
