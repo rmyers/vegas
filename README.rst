@@ -47,6 +47,19 @@ Vdara Hospitality Suite
 
 .. image:: hospitality_suite.jpg
 
+Flights
+=======
+
+Flights aren't looking too bad there are a few direct flights and many with one stop for less. It woudl be great if we can all try to show up at the same time. I'm leaning towards the 940 arrival as it gives more time to setup for the night.
+
+Southwest AUS to LAS
+    * 1279  820am - 940am : $193
+    * 2954  205pm - 300pm : $193
+
+Southwest LAS to AUS
+    * 445 725pm - 1205am : $193
+    * 357 500pm - 1230am : $172 <- one stop but I'll probably take it as I have points to cover.
+ 
 Who's Going?
 ============
 
