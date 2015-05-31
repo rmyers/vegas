@@ -37,6 +37,7 @@ amount of bed sharing going on.
 Hotel           Sat    Sun    Total
 =============  =====  ======  =====
 Westgate_      $150   $40     $190
+Harrahs_       $111   $60     $170
 MontyCarlo_    $180   $60     $240
 Vdara_ for 5   $722   $399    $1120
 Vdara_ for 3   $212   $90     $300
@@ -83,4 +84,5 @@ Who's Going?
 .. _MontyCarlo: http://www.montecarlo.com/
 .. _NYNY: http://www.nynyhotelcasino.com/
 .. _LINQ: https://www.caesars.com/linq
+.. _Harrahs: https://www.caesars.com/harrahs-las-vegas
 .. _Vdara: http://www.vdara.com/suites/two-bedroom-hospitality-suite.aspx
