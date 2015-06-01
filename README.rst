@@ -71,7 +71,7 @@ Who's Going?
 :Joe: YES!
 :Jordan: TBD
 :Kevin: TBD
-:Matt: TBD
+:Matt: No
 :Marcus: TBD
 :Michael: TBD
 :Mike: TBD
