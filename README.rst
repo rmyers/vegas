@@ -7,46 +7,14 @@ I hope we can find a hotel and a weekend that works for everyone. If you want to
 invite other people please feel free. Here are the details:
 
 :Dates: September 19th - 20th
-:Location: TBD (more below)
+:Location: `Golden Nugget`_ (downtown vegas)
 
-Option 1: Westgate $100/person
-------------------------------
+Hotel
+=====
 
-I have stayed at a bunch of places in 
-Vegas and like to stay on the strip, however the Westgate 
-(formerly Hilton, formerly LVH) has a really good sports book with really 
-lax rules on drink comps. The sports books on the strip require you to have 
-$100 tickets on a game to get drinks or give you a couple coupons which is lame. 
-The 'superbook' on the other hand is off the strip and thus they need to keep 
-people coming in. There is also a monorail station at the hotel so we can easily 
-get to the strip on Saturday (it runs until 3am so if we do stay out too late 
-we'll have to cab it back)
-
-Option 2: Vdara / Monty Carlo $200/person 
-------------------------------------------
-
-We can get 5 people in a hospitality
-suite so it would be about $230 a person. The other option at the Vdara is a
-King bed with a queen sleeper sofa, so 3 people could do one of those rooms too.
-We can also mix-in a few rooms at the Monty Carlo which is connected by a tram
-to the Vdara and use the Suite as the home base which will cut down on the
-amount of bed sharing going on.
-
-
-=============  =====  ======  =====
-Hotel           Sat    Sun    Total
-=============  =====  ======  =====
-Westgate_      $150   $40     $190
-Harrahs_       $111   $60     $170
-MontyCarlo_    $180   $60     $240
-Vdara_ for 5   $722   $399    $1120
-Vdara_ for 3   $212   $90     $300
-=============  =====  ======  =====
-
-Vdara Hospitality Suite
------------------------
-
-.. image:: hospitality_suite.jpg
+The famous `Golden Nugget`_ in downtown vegas. They have a really good Sports book for the sunday games and
+is on the Fremont Street experience. So we can hop around to the various casinos to get our craps and blackjack 
+on. They also have a kick ass pool if we get tired of all the gaming.
 
 Flights
 =======
@@ -67,22 +35,11 @@ Who's Going?
 :Bob: YES!
 :Anthony: YES!
 :Craig: Maybe
-:Jeff: TBD
+:Conrad: YES!
 :Joe: YES!
 :Jordan: TBD
-:Kevin: TBD
-:Matt: No
 :Marcus: TBD
-:Michael: TBD
-:Mike: TBD
-:Paul: TBD
 :Shola: Maybe
 :Theron: YES!
 
-.. _Westgate: https://www.westgatedestinations.com/nevada/las-vegas/westgate-las-vegas-hotel-casino
-.. _Aria: http://www.aria.com/
-.. _MontyCarlo: http://www.montecarlo.com/
-.. _NYNY: http://www.nynyhotelcasino.com/
-.. _LINQ: https://www.caesars.com/linq
-.. _Harrahs: https://www.caesars.com/harrahs-las-vegas
-.. _Vdara: http://www.vdara.com/suites/two-bedroom-hospitality-suite.aspx
+.. _Golden Nugget: http://www.goldennugget.com/lasvegas/ 
