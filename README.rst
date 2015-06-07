@@ -32,7 +32,7 @@ Southwest LAS to AUS
 Who's Going?
 ============
 
-:Bob: YES!
+:Bob: YES! SW 1279 AUS-LAS, SW 357 LAS - AUS
 :Anthony: YES!
 :Craig: Maybe
 :Conrad: YES!
