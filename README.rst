@@ -32,7 +32,7 @@ Southwest LAS to AUS
 Who's Going?
 ============
 
-:Bob: YES! SW 1279 AUS-LAS, SW 357 LAS - AUS
+:Bob: YES! SW #1279 Arrives 9:20am , SW #357 Leaves 5pm
 :Anthony: YES!
 :Craig: Maybe
 :Conrad: YES!
