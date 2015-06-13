@@ -56,7 +56,7 @@ Southwest LAS to AUS Sept 21st
 Who's Going?
 ============
 
-:Bob: SW #1279 Arrives 9:20am , SW #357 Leaves 5pm
+:Bob: SW #1279 Arrives 9:20am , SW #445 Leaves 7:25pm
 :Anthony: YES!
 :Collin: Alaska Airlines #612 arrives 9:25am, AA #623 Leaves 5:10pm
 :Conrad: YES!
