@@ -16,10 +16,34 @@ The famous `Golden Nugget`_ in downtown vegas. They have a really good Sports bo
 is on the Fremont Street experience. So we can hop around to the various casinos to get our craps and blackjack
 on. They also have a kick ass pool if we get tired of all the gaming.
 
+Schedule
+========
+
+Saturday arrival (9:30am):
+    Use the Golden Nugget shuttle_ $18 round trip.
+
+Saturday Day:
+    Much drinking and gaming in the Downtown (there is also an abc_ store right next to the nugget that sells liquor)
+
+Saturday Night:
+    Rent a limo to go to the strip. 8 person limo is about $75/hour. We can also schedule it to bring us back to the nugget, but I'm fine with just arriving in style at the Bellagio and cabbing it back.
+
+Sunday Day:
+    Football at the sportsbook and/or hit the pool
+
+Sunday Night:
+    Shenanigans in downtown
+
+Monday:
+    Sober up and leave
+
 Flights
 =======
 
-Flights aren't looking too bad there are a few direct flights and many with one stop for less. It woudl be great if we can all try to show up at the same time. I'm leaning towards the 940 arrival as it gives more time to setup for the night.
+Flights aren't looking too bad there are a few direct flights and many with
+one stop for less. It would be great if we can all try to show up at the same
+time. I'm leaning towards the 940 arrival as it gives more time to setup for
+the night.
 
 Southwest AUS to LAS Sept 19th
     * 1279  820am - 940am : $193
@@ -27,19 +51,22 @@ Southwest AUS to LAS Sept 19th
 
 Southwest LAS to AUS Sept 21st
     * 445 725pm - 1205am : $193
-    * 357 500pm - 1230am : $172 <- one stop but I'll probably take it as I have points to cover.
+    * 357 500pm - 1230am : $172
 
 Who's Going?
 ============
 
 :Bob: YES! SW #1279 Arrives 9:20am , SW #357 Leaves 5pm
 :Anthony: YES!
-:Craig: Maybe
+:Collin: YES!
 :Conrad: YES!
+:Craig: Maybe
 :Joe: YES! SW #1279 Arrives 9:20am, SW #445 Leaves 7:25pm
-:Jordan: TBD
-:Marcus: TBD
+:Kishore: Maybe
+:Nate: Maybe
 :Shola: Maybe
 :Theron: YES!
 
 .. _Golden Nugget: http://www.goldennugget.com/lasvegas/
+.. _shuttle: http://www.goldennugget.com/lasvegas/faq.asp
+.. _abc: https://www.google.com/maps/place/ABC+Stores/@36.171162,-115.1452,17z/data=!3m1!4b1!4m2!3m1!1s0x80c8c3a1c0eb5b7f:0xd544ca1e9da55ef5
