@@ -37,6 +37,12 @@ Sunday Night:
 Monday:
     Sober up and leave
 
+Food/Drink Ideas
+================
+
+* `Heart attack grill`_
+* `Oak and Ivy`_
+
 Flights
 =======
 
@@ -70,3 +76,6 @@ Who's Going?
 .. _Golden Nugget: http://www.goldennugget.com/lasvegas/
 .. _shuttle: http://www.goldennugget.com/lasvegas/faq.asp
 .. _abc: https://www.google.com/maps/place/ABC+Stores/@36.171162,-115.1452,17z/data=!3m1!4b1!4m2!3m1!1s0x80c8c3a1c0eb5b7f:0xd544ca1e9da55ef5
+.. _Oak and Ivy: http://oakandivy.com/
+.. _Heart attack grill: http://www.heartattackgrill.com/
+
