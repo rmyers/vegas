@@ -63,15 +63,13 @@ Who's Going?
 ============
 
 :Bob: SW #1279 Arrives 9:20am , SW #445 Leaves 7:25pm
-:Anthony: YES!
 :Collin: Alaska Airlines #612 arrives 9:25am, AA #623 Leaves 5:10pm
 :Conrad: YES!
-:Craig: Maybe
 :Joe: SW #1279 Arrives 9:20am, SW #445 Leaves 7:25pm
-:Kishore: Maybe
+:Kishore: YES!
 :Nate: Maybe
 :Shola: Maybe
-:Theron: YES!
+:Theron: Maybe
 
 .. _Golden Nugget: http://www.goldennugget.com/lasvegas/
 .. _shuttle: http://www.goldennugget.com/lasvegas/faq.asp
