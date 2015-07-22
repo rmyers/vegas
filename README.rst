@@ -12,6 +12,8 @@ invite other people please feel free. Here are the details:
 Hotel
 =====
 
+.. image:: golden_nugget.jpg
+
 The famous `Golden Nugget`_ in downtown vegas. They have a really good Sports book for the sunday games and
 is on the Fremont Street experience. So we can hop around to the various casinos to get our craps and blackjack
 on. They also have a kick ass pool if we get tired of all the gaming.
