@@ -22,7 +22,7 @@ Schedule
 ========
 
 Saturday arrival (9:30am):
-    Use the Golden Nugget shuttle_ $18 round trip.
+    Since we are all arriving at the same time we'll get limo/SUV to pick us up and drop us off at the nugget.
 
 Saturday Day:
     Much drinking and gaming in the Downtown (there is also an abc_ store right next to the nugget that sells liquor)
