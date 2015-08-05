@@ -18,26 +18,28 @@ The famous `Golden Nugget`_ in downtown vegas. They have a really good Sports bo
 is on the Fremont Street experience. So we can hop around to the various casinos to get our craps and blackjack
 on. They also have a kick ass pool if we get tired of all the gaming.
 
+Tryst Club
+==========
+
+.. image:: tryst.jpg
+
+A medium size club with great prices on bottles/tables. We'll try to get the best table we can going thru a VIP service.
+
 Schedule
 ========
 
 Saturday arrival (9:30am):
-    Since we are all arriving at the same time we'll get limo/SUV to pick us up and drop us off at the nugget.
+    Since we are all arriving at the same time we'll get limo/SUV to pick us up and drop us off at the nugget. Possibly hit up the abc_ store and get liquor.
 
-Saturday Day:
-    Much drinking and gaming in the Downtown (there is also an abc_ store right next to the nugget that sells liquor)
-
-Saturday Night:
-    Rent a limo to go to the strip. 8 person limo is about $75/hour. We can also schedule it to bring us back to the nugget, but I'm fine with just arriving in style at the Bellagio and cabbing it back.
-
-Sunday Day:
-    Football at the sportsbook and/or hit the pool
+Saturday Night (10:30pm):
+    Meet at the hotel to catch a limo to the Tryst_ night club.  
 
 Sunday Night:
-    Shenanigans in downtown
+    Bar/club options: Griffin_, Commonwealth_, `Oak and Ivy`_
 
 Monday:
     Sober up and leave
+
 
 Food/Drink Ideas
 ================
@@ -66,16 +68,18 @@ Who's Going?
 
 :Bob: SW #1279 Arrives 9:20am , SW #445 Leaves 7:25pm
 :Collin: Alaska Airlines #612 arrives 9:25am, AA #623 Leaves 5:10pm
+:Conrad: Maybe
 :Joe: SW #1279 Arrives 9:20am, SW #445 Leaves 7:25pm
 :John: Driving from LA
 :Kishore: SW #1279 Arrives 9:20am, SW #445 Leaves 7:25pm
-:Nate: YES!
+:Nate: SW #1279 Arrives 9:20am, SW #445 Leaves 7:25pm
 :Shola: Maybe
-:Theron: Maybe
 
 .. _Golden Nugget: http://www.goldennugget.com/lasvegas/
 .. _shuttle: http://www.goldennugget.com/lasvegas/faq.asp
 .. _abc: https://www.google.com/maps/place/ABC+Stores/@36.171162,-115.1452,17z/data=!3m1!4b1!4m2!3m1!1s0x80c8c3a1c0eb5b7f:0xd544ca1e9da55ef5
 .. _Oak and Ivy: http://oakandivy.com/
 .. _Heart attack grill: http://www.heartattackgrill.com/
-
+.. _Tryst: http://www.trystlasvegas.com/
+.. _Griffin: https://www.facebook.com/theofficial.vegasgriffin
+.. _Commonwealth: http://commonwealthlv.com/
