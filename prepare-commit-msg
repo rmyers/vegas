@@ -1,0 +1,11 @@
+#!/bin/bash
+
+branch_name="$(git rev-parse --abbrev-ref HEAD)"
+story_number="${branch_name%%/*}"
+
+sed=(sed -i)
+if [ "Darwin" = "$(uname)" ]; then
+  sed=(sed -i '')
+fi
+
+grep -qs "\[$story_number\]" "$1" || "${sed[@]}" "1s/^/[$story_number] /" "$1"

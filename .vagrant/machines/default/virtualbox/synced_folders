@@ -1,0 +1,1 @@
+{"nfs":{"/reach":{"type":"nfs","guestpath":"/reach","hostpath":"/Users/rmyers/workspace/reach","disabled":false,"__vagrantfile":true,"map_uid":501,"map_gid":20,"nfs_udp":true,"nfs_version":3,"uuid":"1736620152"}}}
